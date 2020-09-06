@@ -35,6 +35,8 @@ Steps to run app:
 
 ### Task 2 Debugging Assigment
 
+<hr>
+
 The simplest way to recreate a **java.util.ConcurrentModificationException** is to execute the following code:
 
 ```java
